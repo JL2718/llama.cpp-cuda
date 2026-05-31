@@ -4,6 +4,7 @@ name: Update Flake assets on Release
 on:
   release:
     types: [published] # Triggers when a release is fully published
+  workflow_dispatch:
 
 permissions:
   contents: write # Required to push commits back to the repo
