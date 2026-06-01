@@ -1,5 +1,5 @@
 {
-  "version": "b9437",
-  "hash": "sha256:e7cf0d1720a952d3fa4919822599641653ae4a617c9961eec875e8ecf258112a",
-  "url": "https://github.com/ai-dock/llama.cpp-cuda/releases/download/b9437/llama.cpp-b9437-cuda-12.8-amd64.tar.gz"
+  "version": "b9444",
+  "hash": "sha256:3238f2565efad7ad1d61a7ac0bd085d1944f5457d8d189e6b4d012629e90025e",
+  "url": "https://github.com/ai-dock/llama.cpp-cuda/releases/download/b9444/llama.cpp-b9444-cuda-12.8-amd64.tar.gz"
 }
