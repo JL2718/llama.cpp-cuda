@@ -21,6 +21,7 @@ jobs:
       - name: Run update script
         run: |
           git checkout ${{github.ref_name}}
+          git pull --rebase -X theirs
           chmod +x ./update.sh
           ./update.sh
 
